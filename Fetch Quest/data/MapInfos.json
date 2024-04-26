@@ -19,6 +19,6 @@ null,
 {"id":17,"expanded":true,"name":"Mayor's house 1st floor","order":19,"parentId":0,"scrollX":712.5,"scrollY":442},
 {"id":18,"expanded":false,"name":"Mayor's house 2nd floor","order":20,"parentId":17,"scrollX":563.6,"scrollY":408},
 {"id":19,"expanded":false,"name":"Hunter's Lodge","order":5,"parentId":2,"scrollX":704.5,"scrollY":450},
-{"id":20,"expanded":false,"name":"Park","order":21,"parentId":0,"scrollX":700.8888888888889,"scrollY":505.3333333333333},
+{"id":20,"expanded":false,"name":"Park","order":21,"parentId":0,"scrollX":693.7777777777778,"scrollY":454.6666666666667},
 {"id":21,"expanded":true,"name":"Lake","order":9,"parentId":2,"scrollX":1056.5,"scrollY":450}
 ]
