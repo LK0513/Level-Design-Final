@@ -1,12 +1,12 @@
 [
 null,
-{"id":1,"expanded":true,"name":"start","order":2,"parentId":0,"scrollX":1359.4285714285713,"scrollY":1518},
+{"id":1,"expanded":true,"name":"start","order":2,"parentId":0,"scrollX":1350.5454545454545,"scrollY":1081.0909090909092},
 {"id":2,"expanded":true,"name":"Forest right","order":7,"parentId":0,"scrollX":642.6666666666666,"scrollY":675.1111111111111},
 {"id":3,"expanded":true,"name":"Deep Forest Right","order":10,"parentId":2,"scrollX":940.5,"scrollY":610.5},
 {"id":4,"expanded":false,"name":"Railan's house","order":3,"parentId":0,"scrollX":550.2222222222222,"scrollY":330.22222222222223,"quick":false},
 {"id":5,"expanded":true,"name":"Forest chase","order":11,"parentId":2,"scrollX":1074.857142857143,"scrollY":636.8571428571428},
-{"id":6,"expanded":false,"name":"Edric's house","order":4,"parentId":0,"scrollX":1061.142857142857,"scrollY":636.8571428571428,"quick":false},
-{"id":7,"expanded":true,"name":"start reminder","order":1,"parentId":0,"scrollX":550.2222222222222,"scrollY":330.22222222222223,"quick":false},
+{"id":6,"expanded":false,"name":"Edric's house","order":4,"parentId":0,"scrollX":619,"scrollY":372,"quick":false},
+{"id":7,"expanded":true,"name":"start reminder","order":1,"parentId":0,"scrollX":495.2,"scrollY":320.4,"quick":false},
 {"id":8,"expanded":false,"name":"World Collapse Ending","order":13,"parentId":0,"scrollX":836,"scrollY":410,"quick":false},
 {"id":9,"expanded":false,"name":"Sacrifice Ending","order":14,"parentId":0,"scrollX":1086.75,"scrollY":674.25,"quick":false},
 {"id":10,"expanded":false,"name":"Sleep Ending","order":15,"parentId":0,"scrollX":495.2,"scrollY":324.4,"quick":false},
@@ -23,8 +23,8 @@ null,
 {"id":21,"expanded":true,"name":"Lake","order":12,"parentId":2,"scrollX":1085.142857142857,"scrollY":650.5714285714286},
 {"id":22,"expanded":true,"name":"CyberWorld","order":22,"parentId":0,"scrollX":825.3333333333334,"scrollY":420.6666666666667,"quick":false},
 {"id":23,"expanded":true,"name":"devy's room","order":23,"parentId":22,"scrollX":825.3333333333334,"scrollY":506.6666666666667,"quick":false},
-{"id":24,"expanded":true,"name":"town_cyberworld","order":26,"parentId":25,"scrollX":1427,"scrollY":1307.5,"quick":false},
+{"id":24,"expanded":true,"name":"town_cyberworld","order":26,"parentId":25,"scrollX":1350.5454545454545,"scrollY":996,"quick":false},
 {"id":25,"expanded":true,"name":"chasing hallway","order":24,"parentId":22,"scrollX":1074.857142857143,"scrollY":789.4285714285713,"quick":false},
-{"id":26,"expanded":false,"name":"Railen's House cyberworld","order":27,"parentId":24,"scrollX":869.4,"scrollY":538.8,"quick":false},
-{"id":27,"expanded":false,"name":"Chasing2","order":25,"parentId":25,"scrollX":1061.142857142857,"scrollY":650.5714285714286,"quick":false}
+{"id":26,"expanded":false,"name":"Railen's House cyberworld","order":27,"parentId":24,"scrollX":1350.5454545454545,"scrollY":810.5454545454546,"quick":false},
+{"id":27,"expanded":false,"name":"Chasing2","order":25,"parentId":25,"scrollX":1485.6,"scrollY":892.8,"quick":false}
 ]
